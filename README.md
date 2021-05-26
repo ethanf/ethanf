@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+At [Talos](https://talos.com/), we're building trading systems for digital assets. 
+
+We're hiring! If you enjoy building high-performance [reactive](https://www.reactivemanifesto.org/) systems in a fast paced environment, reach out or [join us](https://talos.com/careers/)!
+
 <!--
 **ethanf/ethanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
